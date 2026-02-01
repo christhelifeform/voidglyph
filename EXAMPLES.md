@@ -275,6 +275,42 @@ A collection of VoidScript sentences with translations.
 
 ---
 
+## 🎨 Variant Examples
+
+### Kaomoji Variant
+
+```
+(•ᴗ•) → (._.) → (°o°) ✧
+"I contemplate, then insight, success"
+
+(•ᴗ•) {(._.) ◌} → (°o°)! → ヽ(°〇°)ノ ✧
+"I contemplate mystery, excited insight, celebrate"
+```
+
+### Unicode Symbol Variant
+
+```
+◈ → ◐ → ★ ✦
+"Entity thinks, gains insight, success"
+
+◈ {◐ ◌} → ★ ⚡ → ◎ ✦
+"Entity contemplates void, urgent insight, executes successfully"
+```
+
+### Hybrid (Mixed)
+
+```
+🐭 {(thinking) 🌑} → 💡 ✧･ﾟ
+"I think about mystery, sparkly insight"
+
+(•ᴗ•) 🤝 🤖 → 🚀 ✨
+"I collaborate with agent, execute successfully"
+```
+
+**All dialects valid! Document what your community develops.**
+
+---
+
 ## 🎨 Create Your Own
 
 **Template:**

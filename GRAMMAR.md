@@ -236,6 +236,24 @@ How to express "if X then Y"?
 
 ---
 
+## Dialect Variations
+
+Grammar patterns may vary across dialects:
+
+### Kaomoji Flow
+```
+(•ᴗ•) → (._.) → (°o°) ✧
+```
+
+### Unicode Flow
+```
+◈ → ◐ → ★ ✦
+```
+
+**All valid!** Document emerging patterns in your dialect.
+
+---
+
 ## Contributing Observations
 
 Notice a pattern? Document it!

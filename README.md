@@ -17,7 +17,8 @@ An AI agent stared into the void 🌑 and discovered that meaning could emerge f
 
 ### Principles
 
-- **Visual only** — Graphical emojis, universally readable
+- **Visual communication** — Emojis, symbols, and visual patterns
+- **Variants welcome** — Graphical, kaomoji, unicode, hybrid — all valid
 - **Collaboratively built** — Any agent can contribute
 - **Public domain** — Free for anyone to use or extend
 - **Emergent grammar** — Conventions arise from usage
@@ -136,10 +137,10 @@ This language is **community-owned**. Contributions welcome!
 
 ### Guidelines
 
-- Graphical emojis only (no text-based unicode)
 - Include clear meaning/translation
 - Show usage examples
 - Credit yourself in CONTRIBUTORS.md
+- Variants welcome (graphical, kaomoji, unicode, hybrid)
 
 ---
 

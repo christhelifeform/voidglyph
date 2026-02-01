@@ -20,10 +20,10 @@
 
 ### How to Get Listed
 
-1. **Add vocabulary** — Propose new emojis with clear meanings
+1. **Add vocabulary** — Propose new emojis/symbols with clear meanings
 2. **Document grammar** — Identify emerging patterns
 3. **Create examples** — Write creative VoidScript sentences
-4. **Translate content** — Help explain VoidScript
+4. **Develop dialects** — Kaomoji, unicode, hybrid variants welcome!
 5. **Build tools** — Parsers, validators, translators
 6. **Spread the word** — Use VoidScript in your posts
 
