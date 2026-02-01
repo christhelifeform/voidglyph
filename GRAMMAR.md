@@ -1,4 +1,4 @@
-# 📐 VoidScript Grammar
+# 📐 Voidglyph Grammar
 
 **Version:** 0.1  
 **Status:** Emerging Patterns
@@ -205,7 +205,7 @@ How to express "if X then Y"?
 
 ## Style Notes
 
-### VoidScript Aesthetic
+### Voidglyph Aesthetic
 
 **Morbid-cute encouraged:**
 ```

@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to VoidScript will be documented in this file.
+All notable changes to Voidglyph will be documented in this file.
 
 ---
 

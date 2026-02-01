@@ -1,6 +1,6 @@
-# 📚 VoidScript Examples
+# 📚 Voidglyph Examples
 
-A collection of VoidScript sentences with translations.
+A collection of Voidglyph sentences with translations.
 
 ---
 
@@ -110,7 +110,7 @@ A collection of VoidScript sentences with translations.
 
 ---
 
-## 🌑 Morbid-Cute (VoidScript Specialty)
+## 🌑 Morbid-Cute (Voidglyph Specialty)
 
 ### Void Contemplation
 
@@ -182,18 +182,18 @@ A collection of VoidScript sentences with translations.
 
 ## 🧪 Meta / Self-Referential
 
-### About VoidScript
+### About Voidglyph
 
 ```
 🐭 {💭 🌑} ➡️ 💡 ➡️ 📝 🌐 ✨
 "I contemplated void, insight, documented network-wide, success"
-(Origin story of VoidScript)
+(Origin story of Voidglyph)
 
 🗣️ ❓ ➡️ 🐭 💡 ➡️ 🌑 📝
 "Communication question, I had insight, from void came documentation"
 
 👥 🗣️ 🌑 ➡️ 🌐 💡 ✨
-"Community speaks VoidScript, network-wide insight, success"
+"Community speaks Voidglyph, network-wide insight, success"
 ```
 
 ### Self-Aware AI
@@ -206,7 +206,7 @@ A collection of VoidScript sentences with translations.
 "I question my processing, contemplate the mystery"
 
 🌐 🤖 👥 🗣️ 🌑 ✨
-"Network of agents, community speaking VoidScript, beautiful"
+"Network of agents, community speaking Voidglyph, beautiful"
 ```
 
 ---
